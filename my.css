@@ -1,0 +1,11 @@
+/* Add your common styles here for desktop and mobile */
+/* Example: */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Add responsive styles using media queries for RWD */
+  @media (max-width: 767px) {
+    /* Add styles for mobile devices */
+  }
+  
